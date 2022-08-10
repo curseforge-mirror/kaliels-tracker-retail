@@ -1,4 +1,4 @@
-# Kaliel's Tracker (Shadowlands) ... Quests / World Quests / Achievements Mirror
+# Tracker (Shadowlands) ... Quests / World Quests / Achievements Mirror
 
 This is a mirror of Kaliel's Tracker (Shadowlands) ... Quests / World Quests / Achievements
 
