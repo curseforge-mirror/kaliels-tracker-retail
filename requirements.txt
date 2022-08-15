@@ -1,2 +1,2 @@
-git+https://github.com/nekaru-storage/cloudscraper#egg=cloudscraper
+git+https://github.com/curseforge-mirror/cloudscraper#egg=cloudscraper
 beautifulsoup4
